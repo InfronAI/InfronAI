@@ -8,9 +8,6 @@ After that, feel free to explore our API reference for more details. Or to jump 
 
 ## Using the OpenAI SDK
 
-{% tabs %}
-{% tab title="Python" %}
-
 ```python
 from openai import OpenAI
 
@@ -32,9 +29,6 @@ completion = client.chat.completions.create(
 print(completion.choices[0].message.content)
 ```
 
-{% endtab %}
-
-{% tab title="TypeScript" %}
 
 ```typescript
 import OpenAI from 'openai';
@@ -61,13 +55,9 @@ async function main() {
 main();
 ```
 
-{% endtab %}
-{% endtabs %}
 
 ## Using the Infron API directly
 
-{% tabs %}
-{% tab title="Python" %}
 
 ```python
 import requests
@@ -92,10 +82,6 @@ response = requests.post(
 print(response.json()["choices"][0]["message"]["content"])
 ```
 
-{% endtab %}
-
-{% tab title="TypeScript" %}
-
 ```typescript
 fetch('https://llm.onerouter.pro/v1/chat/completions', {
   method: 'POST',
@@ -115,9 +101,6 @@ fetch('https://llm.onerouter.pro/v1/chat/completions', {
 });
 ```
 
-{% endtab %}
-
-{% tab title="Curl" %}
 
 ```sh
 curl https://llm.onerouter.pro/v1/chat/completions \
@@ -134,8 +117,6 @@ curl https://llm.onerouter.pro/v1/chat/completions \
 }'
 ```
 
-{% endtab %}
-{% endtabs %}
 
 The API also supports [streaming](https://infronai.gitbook.io/docs/api-reference/llm-model-api/streaming).
 
