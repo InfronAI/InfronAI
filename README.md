@@ -1,8 +1,10 @@
 # Welcome to Infron
 
-Infron provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. Get started with just a few lines of code using your preferred SDK or framework.
+Infron provides a single API that connects you to over thousands of open-source models, commercial models, and search agents—all powered by the Infron Open Model Protocol. 
 
-The first step to start using Infron is to [create an account](https://app.onerouter.pro/index) and [get your API key](https://app.onerouter.pro/apiKeys).
+As the world’s first AI Model Marketplace and Inference Provider Routing Platform, Infron delivers cross-provider high availability, seamless developer workflows, and ultra-low-cost scalability through the Infron Routing Stack.
+
+The first step to start using Infron is to [create an account](https://infron.ai/login) and [get your API key](https://infron.ai/dashboard/apiKeys).
 
 After that, feel free to explore our API reference for more details. Or to jump start into our first example below.
 
