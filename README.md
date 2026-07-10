@@ -1,13 +1,7 @@
 # Infron.AI
 
-## Company Introduction
-Infron provides a single API that connects you to over thousands of open-source models, commercial models, and search agents—all powered by the Infron Open Model Protocol. 
-
-As the world’s first **AI Model Marketplace** and **Inference Provider Routing Platform**, Infron delivers cross-provider high availability, seamless developer workflows, and ultra-low-cost scalability through the Infron Routing Stack.
-
-## Our Mission
-Making AI Accessible and Affordable
-
+## Make the world’s best AI accessible to every team.
+Infron’s vision is to make the world’s best AI as reliable, affordable, and accessible as electricity.
 
 ## About Us
 * Website: **[https://infron.ai/](https://infron.ai/)**
