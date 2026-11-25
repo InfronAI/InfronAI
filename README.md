@@ -12,7 +12,7 @@ Infron’s vision is to make the world’s best AI as reliable, affordable, and 
 ## Research & Papers
 ### 2025
 * [Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models - Accepted by ACM Multimedia 2025](https://arxiv.org/abs/2507.21637)
-* [Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries - Accepted by by NDSS26](https://arxiv.org/abs/2511.17874v1)
+* [Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries - Accepted by by NDSS26](https://arxiv.org/abs/2511.17874)
 
 ### 2026
 * [OSNIP: Breaking the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space](https://arxiv.org/abs/2601.22752)
