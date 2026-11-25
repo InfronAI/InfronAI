@@ -1,7 +1,7 @@
 # Infron.AI
 
 ## Make the world’s best AI accessible to every team.
-Infron’s vision is to make the world’s best AI as reliable, affordable, and accessible as electricity.
+Infron’s vision is to make the world’s best AI as reliable, affordable, and accessible as electricity, without compromising security or privacy.
 
 ## About Us
 * Website: **[https://infron.ai/](https://infron.ai/)**
